@@ -1,0 +1,11 @@
+.completed {
+    color: grey;
+    text-decoration: line-through;
+}
+
+.list-group-item span {
+    margin-right: 10px;
+}
+.list-group-item i {
+    cursor: pointer;
+}
